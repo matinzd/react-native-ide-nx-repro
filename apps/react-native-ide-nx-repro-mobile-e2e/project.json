@@ -1,0 +1,10 @@
+{
+  "name": "react-native-ide-nx-repro-mobile-e2e",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/react-native-ide-nx-repro-mobile-e2e/src",
+  "projectType": "application",
+  "tags": [],
+  "implicitDependencies": ["react-native-ide-nx-repro-mobile"],
+  "// targets": "to see all targets run: nx show project react-native-ide-nx-repro-mobile-e2e --web",
+  "targets": {}
+}
